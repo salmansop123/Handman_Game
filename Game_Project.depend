@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1733642784 source:d:\itm\code blocks\game_project\main.cpp
+	<iostream>
+	<fstream>
+	<map>
+	<vector>
+	<ctime>
+	<cstdlib>
+
